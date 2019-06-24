@@ -1,0 +1,27 @@
+{
+  "name": "gshop_server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "blueimp-md5": "^2.10.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "debug": "^4.1.1",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "js-base64": "^2.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.0",
+    "morgan": "^1.9.1",
+    "nedb-session-store": "^1.1.2",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0",
+    "serve-favicon": "^2.5.0",
+    "svg-captcha": "^1.4.0"
+  }
+}
