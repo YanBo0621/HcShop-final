@@ -37,14 +37,14 @@
 
 ## 5. 运行项目
 
-**mintshop-client文件夹：**
+**hcshop文件夹：**
 
 1. `npm install`
 2. `npm run dev`
 
 开启服务端程序之前要先安装mongdb，并且成功打开数据库连接
 
-**mintshop-server文件夹：**
+**hcshop-server文件夹：**
 
 1. `npm install`
 2. `npm start`
